@@ -1,0 +1,5 @@
+.ticket {
+  display: block;
+  border: 1px solid gray;
+  margin-bottom: 2px;
+}

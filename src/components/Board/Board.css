@@ -1,0 +1,11 @@
+.board-header, .board-body {
+  display: flex;
+  justify-content: flex-start;
+  width: 100%;
+}
+
+.board-header > div, .board-body > div {
+  display: inline-block;
+  width: calc(100% / 6);
+  border: 1px solid lightgray;
+}
